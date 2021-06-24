@@ -14,6 +14,5 @@ A navigation display system for aircraft built in JAVA/JavaFX.
   - IVY (by ENAC)
 
 
-----------------------------------------------------------------------------------------------------------
 ## AUTHORS:
   XIA Yu | NGO Minh Nhut | SIROBHUSHANAM Anuhya Jayakumar |TRUONG Duc Duy An
