@@ -1,7 +1,7 @@
 # WPilot - A Student Project 
 
 
-A Navigation Display System for Aircraft built in JAVA/JavaFX.   
+A navigation display system for aircraft built in JAVA/JavaFX.   
 
 ----------------------------------------------------------------------------------------------------------
 Screenshot:
@@ -9,11 +9,11 @@ Screenshot:
 
 
 ----------------------------------------------------------------------------------------------------------
-Dependencies:
+Dependencies:\
   Rejeu (by ENAC)
   IVY (by ENAC)
 
 
 ----------------------------------------------------------------------------------------------------------
-AUTHORS:
+AUTHORS:\
   XIA Yu | NGO Minh Nhut | SIROBHUSHANAM Anuhya Jayakumar |TRUONG Duc Duy An
