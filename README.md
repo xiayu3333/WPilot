@@ -9,11 +9,11 @@ Screenshot:
 
 
 ----------------------------------------------------------------------------------------------------------
-Dependencies:\
-  Rejeu (by ENAC)
-  IVY (by ENAC)
+*Dependencies*:
+  - Rejeu (by ENAC)
+  - IVY (by ENAC)
 
 
 ----------------------------------------------------------------------------------------------------------
-AUTHORS:\
+*AUTHORS*:\
   XIA Yu | NGO Minh Nhut | SIROBHUSHANAM Anuhya Jayakumar |TRUONG Duc Duy An
